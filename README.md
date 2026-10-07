@@ -1,30 +1,57 @@
-<h2 align="center">Hello there! Meu nome é Felipe Cabral.</h2>
-<p align="center">
-Tenho 21 anos. Meu foco principal é no desenvolvimento de aplicações no ambiente Microsoft, especialmente no back-end, mas estou sempre explorando novas tecnologias. Meu objetivo é criar código de alta qualidade e soluções úteis que atendam às necessidades dos projetos em que trabalho.
-</p>
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/header-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img src="assets/header.svg" width="100%" alt="">
+</picture>
 
-<p align="center">
-  <a href="https://github.com/felipesbcabral"><img src="https://img.shields.io/github/followers/felipesbcabral?style=social"></a>
-</p>
+# Felipe Cabral
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/felipesbcabral/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
-  </a>
-  <a href="mailto:felipesbcabral@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25>
-  </a>
-</p>
+**Software engineer · .NET backend & AI developer tooling**
 
-<p align="center">
-<img src="https://img.shields.io/badge/Web Development-brown"> <img src="https://img.shields.io/badge/Software Architecture-green"> <img src="https://img.shields.io/badge/Performance-red"> <img src="https://img.shields.io/badge/Self Learning-magenta"> <img src="https://img.shields.io/badge/A little bit of frontend-yellow"> <img src="https://img.shields.io/badge/Backend-blue"> 
-</p>
-<hr>
-<p align="center">
-<img src="https://img.shields.io/badge/.NET%20-%234D2ACC.svg?&style=for-the-badge&logo=.NET&logoColor=white" /> <img src="https://img.shields.io/badge/Javascript%20-%23d9c104.svg?&style=for-the-badge&logo=Javascript&logoColor=white"/> <img src="https://img.shields.io/badge/typescript%20-%23323330.svg?&style=for-the-badge&logo=typescript&logoColor=%23F7DF1E"/><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+I build .NET APIs and tools for working with AI agents. My public projects cover application architecture, automated testing and the review of software interfaces. Based in Brasília, Brazil.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=felipesbcabral&show_icons=true&theme=radical" width="400px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesbcabral&hide=html,css&theme=radical&layout=compact" width="335px" />
-</p>
+[LinkedIn](https://www.linkedin.com/in/felipesbcabral/) · [Email](mailto:felipesbcabral@gmail.com) · [Português](README.pt-BR.md)
+
+## Selected work
+
+### [agentic-os](https://github.com/felipesbcabral/agentic-os)
+
+A portable Markdown toolkit for AI agents, with review gates, execution loops and verification. Includes adapters for Claude Code and Codex.
+
+`AI agents` `Developer tooling` `Markdown` `JavaScript`
+
+### [software-ui-design](https://github.com/felipesbcabral/software-ui-design)
+
+A skill for designing and reviewing SaaS interfaces. Combines component research with automated checks at desktop, tablet and mobile sizes.
+
+`UI engineering` `Node.js` `Playwright` `Claude Code / Codex`
+
+### [codeflix-backend](https://github.com/felipesbcabral/codeflix-backend)
+
+A video catalog API study project in C# and .NET. Explores Clean Architecture and DDD, with unit, integration and end-to-end test projects.
+
+`C#` `.NET` `Entity Framework Core` `MySQL` `Testing`
+
+### [parking-challenge](https://github.com/felipesbcabral/parking-challenge)
+
+A parking management API challenge with a separate domain layer, request validation and unit tests.
+
+`C#` `.NET` `MongoDB` `MediatR` `xUnit`
+
+## Technologies
+
+**Backend:** C#, .NET, Entity Framework Core, SQL / MySQL, MongoDB.<br>
+**Tooling:** JavaScript, TypeScript, Node.js, Git, Docker, GitHub Actions.
+
+<details>
+<summary>Contribution graph, animated</summary>
+
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/contributions-dark.svg">
+  <img src="assets/contributions.svg" width="100%" alt="Snake animation of my GitHub contribution graph. The native graph below provides the contribution details.">
+</picture>
+
+Generated weekly from the GitHub contribution graph with [snk](https://github.com/Platane/snk). Animation is disabled when reduced motion is preferred. [Workflow](https://github.com/felipesbcabral/Felipesbcabral/actions/workflows/profile.yml).
+
+</details>

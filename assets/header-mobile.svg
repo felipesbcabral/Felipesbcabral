@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="144" viewBox="0 0 640 144">
+  <rect width="640" height="144" rx="8" fill="#102535"/>
+  <path d="M8 0H0V144H8Z" fill="#5eead4"/>
+  <text x="40" y="102" font-family="Consolas,monospace" font-size="80" font-weight="700" fill="#5eead4">FC</text>
+  <g fill="none" stroke="#5eead4" stroke-width="3">
+    <path d="M208 72H296M360 72H440M504 72H584"/>
+    <rect x="296" y="40" width="64" height="64" rx="4"/>
+    <rect x="440" y="40" width="64" height="64" rx="4"/>
+    <path d="M584 40V104"/>
+  </g>
+</svg>
